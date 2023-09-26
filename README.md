@@ -1,6 +1,6 @@
 # Customer-Churn-and-RFM-Analysis
 
-In this analysis, the attention is turned towards customer segmentation, RFM analysis, and Churn Rate – to increase the understanding of customer dynamics in the dataset.
+In this analysis, the attention is turned towards customer segmentation, RFM analysis, and Churn Rate to increase the understanding of customer dynamics in the dataset.
 
 Key Highlights:
 
